@@ -28,6 +28,16 @@ Here are some ideas to get you started:
  Gabriel, um jovem programador junior de 16 anos, busca iniciar sua carreira na área de tecnologia em Fortaleza, Brasil. Ele é dedicado, determinado e ansioso para aprender, pronto para adquirir experiência prática e aprimorar suas habilidades de desenvolvimento de software. Com sua paixão pela tecnologia, Gabriel promete ser um ativo valioso no campo da programação à medida que avança em sua carreira.
 </p>
 
+<div align="center" >
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriels-ss&layout=pie&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriels-ss&show_icons=true&theme=dracula)
+
+  
+</div>
+
+
 
 
 
