@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # olá seja bem vindo ao meu perfil
-## Meu nome é **Gabriel Sousa
+## Meu nome é **Gabriel Sousa**
